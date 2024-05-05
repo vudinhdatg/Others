@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 408 204" width="408" height="204">
+	<defs>
+		<image width="408" height="204" id="img1" href="https://vietnamtimes.org.vn/stores/news_dataimages/dieuhuongvnt/072020/11/09/in_article/1335_4.png?rt=20200711094659"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

@@ -1,0 +1,294 @@
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\Website.dll.config
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\Website.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\Website.pdb
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csc.exe
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csc.exe.config
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csc.rsp
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csi.exe
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csi.exe.config
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\csi.rsp
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.AppContext.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Console.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.IO.Compression.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Net.Http.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Net.Sockets.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.ValueTuple.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Xml.XPath.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\vbc.exe
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\vbc.exe.config
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\vbc.rsp
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\VBCSCompiler.exe
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\obj\Debug\Website.csproj.CopyComplete
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\obj\Debug\Website.dll
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\obj\Debug\Website.pdb
+G:\Học\Y2_HK2\LTW\BTL\Web\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+I:\Web\Web\Website\Website\bin\Website.dll.config
+I:\Web\Web\Website\Website\bin\Website.dll
+I:\Web\Web\Website\Website\bin\Website.pdb
+I:\Web\Web\Website\Website\bin\roslyn\csc.exe
+I:\Web\Web\Website\Website\bin\roslyn\csc.exe.config
+I:\Web\Web\Website\Website\bin\roslyn\csc.rsp
+I:\Web\Web\Website\Website\bin\roslyn\csi.exe
+I:\Web\Web\Website\Website\bin\roslyn\csi.exe.config
+I:\Web\Web\Website\Website\bin\roslyn\csi.rsp
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Web\Web\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.AppContext.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Console.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Net.Http.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Net.Sockets.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.ValueTuple.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.dll
+I:\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\Web\Web\Website\Website\bin\roslyn\vbc.exe
+I:\Web\Web\Website\Website\bin\roslyn\vbc.exe.config
+I:\Web\Web\Website\Website\bin\roslyn\vbc.rsp
+I:\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe
+I:\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+I:\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Web\Web\Website\Website\obj\Debug\Website.csproj.AssemblyReference.cache
+I:\Web\Web\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+I:\Web\Web\Website\Website\obj\Debug\Website.csproj.CopyComplete
+I:\Web\Web\Website\Website\obj\Debug\Website.dll
+I:\Web\Web\Website\Website\obj\Debug\Website.pdb
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\Website.dll.config
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\Website.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\Website.pdb
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csc.exe
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csc.exe.config
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csc.rsp
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csi.exe
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csi.exe.config
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\csi.rsp
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.AppContext.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Console.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Http.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Sockets.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.ValueTuple.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe.config
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\vbc.rsp
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL_LTRW\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+D:\BTL_LTRW\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CopyComplete
+D:\BTL_LTRW\Web\Web\Web\Website\Website\obj\Debug\Website.dll
+D:\BTL_LTRW\Web\Web\Web\Website\Website\obj\Debug\Website.pdb
+E:\Webful\Web\Web\Web\Website\Website\bin\Website.dll.config
+E:\Webful\Web\Web\Web\Website\Website\bin\Website.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\Website.pdb
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.exe
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.exe.config
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.rsp
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.exe
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.exe.config
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.rsp
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.AppContext.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Console.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Http.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Sockets.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.ValueTuple.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe.config
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.rsp
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe
+E:\Webful\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+E:\Webful\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Webful\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.AssemblyReference.cache
+E:\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+E:\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CopyComplete
+E:\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.dll
+E:\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.pdb
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\Website.dll.config
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\Website.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\Website.pdb
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.exe
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.exe.config
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csc.rsp
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.exe
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.exe.config
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\csi.rsp
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.AppContext.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Collections.Immutable.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Console.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Globalization.Calendars.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Http.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Net.Sockets.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.ValueTuple.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.exe.config
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\vbc.rsp
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\roslyn\VBCSCompiler.exe.config
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csprojAssemblyReference.cache
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CoreCompileInputs.cache
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.csproj.CopyComplete
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.dll
+D:\Zalo Download Files\Webful\Web\Web\Web\Website\Website\obj\Debug\Website.pdb
